@@ -38,9 +38,6 @@ ReactDOM.render(
                     <NavLink to="/competitive-tiers" className="navbar-link">Competitive Tiers</NavLink>
                 </li>
             </ul>
-            <div className="mobile-menu">
-                <i className="fa-solid fa-bars"></i>
-            </div>
         </nav>
         <div className="container">
             <Routes>
